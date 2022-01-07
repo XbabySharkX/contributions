@@ -41,3 +41,6 @@ Finally, run the project to see what the moment package does.
 ```javascript
 node index.js
 ```
+
+## Video
+https://www.loom.com/share/0c98eba69a124bdb8de901d6f8ad908d
